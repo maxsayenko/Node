@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 node_modules
 =======
 lib-cov
@@ -16,4 +15,3 @@ results
 
 node_modules
 npm-debug.log
->>>>>>> 1ae4fbea7a51f1237be7c738e413695000ffa672
